@@ -1,3 +1,8 @@
+-=(MissileCommand_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Missile Command by Atari for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 An FPGA implementation of the __Missile Command__ arcade hardware by __Atari__ for the MiSTer platform.
